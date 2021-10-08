@@ -1,0 +1,11 @@
+h1{
+    color: hotpink;
+    text-align: right;
+    text-decoration: underline;   
+}
+img{
+    width: 150px;
+    border: solid 3px;
+    padding: 20px;
+    border-radius: 25px;
+}
